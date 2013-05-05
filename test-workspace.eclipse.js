@@ -1,3 +1,4 @@
+// Note that this test depends on having a file of this project opened in an editor.
 assertTrue(eclipse.resources.currentProject != null);
 
 var foundScriptProject = false;

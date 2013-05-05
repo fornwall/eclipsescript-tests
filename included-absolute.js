@@ -1,0 +1,1 @@
+var includedAbsoluteValue = 'hello, world';
